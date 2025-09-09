@@ -69,7 +69,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`     PharosV2 Auto Bot -     `);
+    console.log(`     PharosV2 Auto Bot -   `);
     console.log(`---------------------------------------------${colors.reset}`);
     console.log();
   }
