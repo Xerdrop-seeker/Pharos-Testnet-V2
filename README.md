@@ -1,7 +1,7 @@
 
 # Pharos Testnet V2 Automation Bot 🤖
 
-A comprehensive automation script for interacting with the Pharos Testnet V2 ecosystem, handling multiple wallets simultaneously with proxy support.
+A comprehensive automation script for interacting with the Pharos Testnet V2 ecosystem, handling multiple wallets simultaneously with proxy support
 
 **GitHub Repository**: https://github.com/Xerdrop-seeker/Pharos-Testnet-V2
 
